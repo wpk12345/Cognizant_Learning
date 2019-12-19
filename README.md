@@ -1,2 +1,2 @@
-# Cognizant_Udemy
+# Cognizant_Learning
 All work from self-learning for Cognizant
